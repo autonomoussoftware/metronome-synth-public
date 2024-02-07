@@ -1,5 +1,5 @@
 {
-    "mainnet": {
+    "ethereum": {
         "bridge_token_mapping": [
             {
                 "collateral_token": "0xa8b607Aa09B6A2E306F93e74c282Fb13f6A80452",
