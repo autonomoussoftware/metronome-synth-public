@@ -1,5 +1,5 @@
 {
-  "mainnet": {
+  "ethereum": {
     "bridge_token_mapping": [
       {
         "collateral_token": "0xa8b607Aa09B6A2E306F93e74c282Fb13f6A80452",
@@ -197,7 +197,10 @@
           },
           {
             "synth": "0x33bCa143d9b41322479E8d26072a00a352404721",
-            "collaterals": ["0x4200000000000000000000000000000000000042", "0x19382707d5a47E74f60053b652Ab34b6e30Febad"]
+            "collaterals": [
+              "0x4200000000000000000000000000000000000042",
+              "0x19382707d5a47E74f60053b652Ab34b6e30Febad"
+            ]
           },
           {
             "synth": "0x9dAbAE7274D28A45F0B65Bf8ED201A5731492ca0",
@@ -271,7 +274,6 @@
               "0x3899a6090c5C178dB8A1800DA39daD0D06EeEFBE"
             ]
           },
-
           {
             "synth": "0x7Ba6F01772924a82D9626c126347A28299E98c98",
             "collaterals": [
